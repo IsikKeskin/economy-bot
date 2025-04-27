@@ -1,8 +1,3 @@
-
----
-
-### 📄 **Updated README for Economy Bot**
-
 ```markdown
 # 💰 Zeros - Economy Bot
 
@@ -28,12 +23,12 @@ Zeros is a fun and competitive economy bot for Discord! Earn coins, gamble, shop
 
 | Command             | Description                      |
 |---------------------|----------------------------------|
-| `!work`             | Work and earn coins              |
-| `!balance`          | Check your coin balance          |
-| `!bet 100`       | Gamble 100 coins                 |
-| `!shop`             | View available items to buy      |
-| `!buy item_name`    | Purchase an item from the shop   |
-| `!leaderboard`      | See the top richest users        |
+| `/work`             | Work and earn coins              |
+| `/balance`          | Check your coin balance          |
+| `/gamble 100`       | Gamble 100 coins                 |
+| `/shop`             | View available items to buy      |
+| `/buy item_name`    | Purchase an item from the shop   |
+| `/leaderboard`      | See the top richest users        |
 
 ---
 
