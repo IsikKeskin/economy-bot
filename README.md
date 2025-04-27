@@ -1,4 +1,3 @@
-```markdown
 # 💰 Zeros - Economy Bot
 
 ![Node.js](https://img.shields.io/badge/Node.js-16.x-brightgreen)
